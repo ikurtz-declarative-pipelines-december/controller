@@ -1,0 +1,4 @@
+variables:
+- team: ikurtz-declarative-pipelines-december
+- admin-user: ikurtz-admin
+- manager-user: ikurtz
